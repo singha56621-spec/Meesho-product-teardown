@@ -6,7 +6,7 @@ This project explores how Meesho can improve monetization without compromising i
 
 Using primary research, user interviews, competitive benchmarking, and product strategy frameworks, our team identified key trust gaps in the customer journey and designed three monetization features supported by an interactive prototype, revenue guesstimates, and a product metrics framework.
 
-📄 **Full Presentation:** Product_Teardown_Meesho.pdf
+📄 **Full Presentation:**  [View Full Presentation](https://drive.google.com/file/d/1ty1McrZOOX4ruzxMIN5gfvz6XsGr94kW/view?usp=sharing)
 
 🎨 **Interactive Prototype:** 🔗 [View Prototype](https://amaranth-filippa-98.tiiny.site)
 
